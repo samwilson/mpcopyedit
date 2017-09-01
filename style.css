@@ -2708,7 +2708,7 @@ p.comment-form-comment {
 }
 
 
-body.custom-background {
+body {
 	background-image: url("images/background-bark.jpg");
 	background-position: center top;
 	background-size: auto;
